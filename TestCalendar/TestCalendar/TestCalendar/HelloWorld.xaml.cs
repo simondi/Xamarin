@@ -26,5 +26,11 @@ namespace TestCalendar
             var text = DoThis.Text;
             await DisplayAlert("Greeting", $"Hello {text}!", "Howdy");
         }
+
+        DatePicker datePicker = new DatePicker
+        {
+            Format = "D",
+            VerticalOptions = LayoutOptions.CenterAndExpand
+        };
     }
 }

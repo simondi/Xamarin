@@ -10,19 +10,19 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>4e35ab32-8839-4400-a70b-20b87ce609fd</PackageIdentityName>
     <PackageIdentityPublisher>CN=Simon</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Coding\Mobile\Test\TestCalendar\TestCalendar\TestCalendar.UWP\obj\x64\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Coding\Mobile\Xamarin\TestCalendar\TestCalendar.UWP\obj\x64\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Coding\Mobile\Test\TestCalendar\TestCalendar\TestCalendar.UWP\bin\x64\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Coding\Mobile\Xamarin\TestCalendar\TestCalendar.UWP\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Coding\Mobile\Test\TestCalendar\TestCalendar\TestCalendar.UWP\bin\x64\Debug\TestCalendar.UWP.exe">
+    <AppxPackagedFile Include="C:\Coding\Mobile\Xamarin\TestCalendar\TestCalendar.UWP\bin\x64\Debug\TestCalendar.UWP.exe">
       <PackagePath>entrypoint\TestCalendar.UWP.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\simond\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
@@ -346,40 +346,40 @@
     <AppxPackagedFile Include="C:\Users\simond\.nuget\packages\Xamarin.Forms\2.2.0.45\lib\uap10.0\Xamarin.Forms.Xaml.dll">
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Coding\Mobile\Test\TestCalendar\TestCalendar\TestCalendar\TestCalendar\bin\Debug\TestCalendar.dll">
+    <AppxPackagedFile Include="C:\Coding\Mobile\Xamarin\TestCalendar\TestCalendar\TestCalendar\bin\Debug\TestCalendar.dll">
       <PackagePath>TestCalendar.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Coding\Mobile\Test\TestCalendar\TestCalendar\TestCalendar.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Coding\Mobile\Xamarin\TestCalendar\TestCalendar.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Coding\Mobile\Test\TestCalendar\TestCalendar\TestCalendar.UWP\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Coding\Mobile\Xamarin\TestCalendar\TestCalendar.UWP\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Coding\Mobile\Test\TestCalendar\TestCalendar\TestCalendar.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Coding\Mobile\Xamarin\TestCalendar\TestCalendar.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Coding\Mobile\Test\TestCalendar\TestCalendar\TestCalendar.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Coding\Mobile\Xamarin\TestCalendar\TestCalendar.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Coding\Mobile\Test\TestCalendar\TestCalendar\TestCalendar.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Coding\Mobile\Xamarin\TestCalendar\TestCalendar.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Coding\Mobile\Test\TestCalendar\TestCalendar\TestCalendar.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Coding\Mobile\Xamarin\TestCalendar\TestCalendar.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Coding\Mobile\Test\TestCalendar\TestCalendar\TestCalendar.UWP\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Coding\Mobile\Xamarin\TestCalendar\TestCalendar.UWP\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Coding\Mobile\Test\TestCalendar\TestCalendar\TestCalendar.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Coding\Mobile\Xamarin\TestCalendar\TestCalendar.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Coding\Mobile\Test\TestCalendar\TestCalendar\TestCalendar.UWP\bin\x64\Debug\TestCalendar.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\Coding\Mobile\Xamarin\TestCalendar\TestCalendar.UWP\bin\x64\Debug\TestCalendar.UWP.xr.xml">
       <PackagePath>TestCalendar.UWP.xr.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
@@ -391,11 +391,11 @@
     <AppxPackagedFile Include="C:\Users\simond\.nuget\packages\Xamarin.Forms\2.2.0.45\lib\uap10.0\Xamarin.Forms.Platform.UAP\Properties\Xamarin.Forms.Platform.UAP.rd.xml">
       <PackagePath>Xamarin.Forms.Platform.UAP\Properties\Xamarin.Forms.Platform.UAP.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Coding\Mobile\Test\TestCalendar\TestCalendar\TestCalendar.UWP\bin\x64\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Coding\Mobile\Xamarin\TestCalendar\TestCalendar.UWP\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Coding\Mobile\Test\TestCalendar\TestCalendar\TestCalendar.UWP\bin\x64\Debug\Core\TestCalendar.UWP.exe">
+    <AppxPackagedFile Include="C:\Coding\Mobile\Xamarin\TestCalendar\TestCalendar.UWP\bin\x64\Debug\Core\TestCalendar.UWP.exe">
       <PackagePath>TestCalendar.UWP.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
